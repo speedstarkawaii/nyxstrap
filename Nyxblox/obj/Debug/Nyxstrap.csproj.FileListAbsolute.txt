@@ -1,0 +1,12 @@
+C:\Users\ourko\source\repos\Nyxblox\bin\Debug\Nyxblox.exe.config
+C:\Users\ourko\source\repos\Nyxblox\bin\Debug\Nyxblox.exe
+C:\Users\ourko\source\repos\Nyxblox\bin\Debug\Nyxblox.pdb
+C:\Users\ourko\source\repos\Nyxblox\bin\Debug\Guna.UI2.dll
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxstrap.csproj.AssemblyReference.cache
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxblox.Form1.resources
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxblox.Properties.Resources.resources
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxstrap.csproj.GenerateResource.cache
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxstrap.csproj.CoreCompileInputs.cache
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxstrap.csproj.Up2Date
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxblox.exe
+C:\Users\ourko\source\repos\Nyxblox\obj\Debug\Nyxblox.pdb
