@@ -13,12 +13,12 @@ simple. scans the app data, checks for "RobloxPlayerBeta.exe" in a dir named rob
 
 # soon 🤪
 
-- discord rpc of game name, player name
-- fps count
-- window mods
-- built in nyx overlay
-- override roblox launcher
-- join games for you
+- discord rpc of game name, player name [easy, just make nyx writefile and read the log, display in rpc]
+- fps count [getfpscap() function and writefile it each second]
+- window mods [topmost, transparent]
+- built in nyx overlay [just puts nyx inside of roblox, making the illusion of an internal interface]
+- override roblox launcher [if roblox launcher shows, it will simply put ours on top]
+- join games for you [roblox:// should do it]
 
 
 # THIS IS OPEN SOURCE
